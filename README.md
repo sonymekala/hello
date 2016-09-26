@@ -1,9 +1,4 @@
-<html>
-<head>
-login
-<head>
-<body>
-<input type="text" name="text" value="username">
-</body>
+create a new repository
+this is my first repository
 
 
